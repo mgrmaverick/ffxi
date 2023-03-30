@@ -1,0 +1,17 @@
+sets.exported={
+    main="Caladbolg",
+    sub="Utu Grip",
+    ammo="Coiste Bodhar",
+    head="Sakpata's Helm",
+    body="Sakpata's Plate",
+    hands="Sakpata's Gauntlets",
+    legs="Sakpata's Cuisses",
+    feet="Nyame Sollerets",
+    neck={ name="Abyssal Beads +1", augments={'Path: A',}},
+    waist="Fotia Belt",
+    left_ear="Lugra Earring +1",
+    right_ear={ name="Moonshade Earring", augments={'Accuracy+4','TP Bonus +250',}},
+    left_ring="Metamor. Ring +1",
+    right_ring="Regal Ring",
+    back={ name="Ankou's Mantle", augments={'STR+20','Accuracy+20 Attack+20','STR+10','Weapon skill damage +10%',}},
+}

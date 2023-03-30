@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Bihu Knife", augments={'Path: A',}},
+    sub="Genmei Shield",
+    range="Daurdabla",
+    head="Fili Calot +2",
+    body="Fili Hongreline +2",
+    hands="Fili Manchettes +2",
+    legs="Inyanga Shalwar +2",
+    feet="Fili Cothurnes +2",
+    neck="Mnbw. Whistle +1",
+    waist="Flume Belt +1",
+    left_ear="Aoidos' Earring",
+    right_ear={ name="Fili Earring", augments={'System: 1 ID: 1676 Val: 0','Accuracy+6','Mag. Acc.+6',}},
+    left_ring="Kishar Ring",
+    right_ring="Defending Ring",
+    back={ name="Intarabus's Cape", augments={'CHR+20','Mag. Acc+20 /Mag. Dmg.+20','Mag. Acc.+9','"Fast Cast"+10','Damage taken-5%',}},
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main="Caladbolg",
+    sub="Utu Grip",
+    ammo="Hydrocera",
+    head="Carmine Mask +1",
+    body="Ignominy Cuirass +3",
+    hands={ name="Fall. Fin. Gaunt. +3", augments={'Enhances "Diabolic Eye" effect',}},
+    legs="Nyame Flanchard",
+    feet="Nyame Sollerets",
+    neck="Erra Pendant",
+    waist="Eschan Stone",
+    left_ear="Malignance Earring",
+    right_ear="Crep. Earring",
+    left_ring="Stikini Ring",
+    right_ring="Stikini Ring",
+    back={ name="Ankou's Mantle", augments={'DEX+20','Accuracy+20 Attack+20','Accuracy+10','"Dbl.Atk."+10','Phys. dmg. taken-10%',}},
+}

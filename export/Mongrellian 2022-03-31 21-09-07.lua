@@ -1,0 +1,17 @@
+sets.exported={
+    main="Caladbolg",
+    sub="Utu Grip",
+    ammo="Coiste Bodhar",
+    head="Hjarrandi Helm",
+    body="Sacro Breastplate",
+    hands="Sakpata's Gauntlets",
+    legs={ name="Carmine Cuisses +1", augments={'HP+80','STR+12','INT+12',}},
+    feet="Sakpata's Leggings",
+    neck={ name="Abyssal Beads +1", augments={'Path: A',}},
+    waist="Ioskeha Belt +1",
+    left_ear="Crep. Earring",
+    right_ear="Cessance Earring",
+    left_ring="Regal Ring",
+    right_ring="Niqmaddu Ring",
+    back={ name="Ankou's Mantle", augments={'DEX+20','Accuracy+20 Attack+20','Accuracy+10','"Dbl.Atk."+10','Phys. dmg. taken-10%',}},
+}

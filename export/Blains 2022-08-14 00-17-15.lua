@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    sub="Genmei Shield",
+    range={ name="Linos", augments={'Attack+13','"Store TP"+4','STR+6 DEX+6',}},
+    head={ name="Lustratio Cap", augments={'Attack+15','STR+5','"Dbl.Atk."+2',}},
+    body={ name="Bihu Jstcorps. +3", augments={'Enhances "Troubadour" effect',}},
+    hands={ name="Bihu Cuffs +3", augments={'Enhances "Con Brio" effect',}},
+    legs={ name="Bihu Cannions +3", augments={'Enhances "Soul Voice" effect',}},
+    feet={ name="Bihu Slippers +3", augments={'Enhances "Nightingale" effect',}},
+    neck="Rep. Plat. Medal",
+    waist={ name="Sailfi Belt +1", augments={'Path: A',}},
+    left_ear={ name="Moonshade Earring", augments={'Attack+4','TP Bonus +250',}},
+    right_ear="Ishvara Earring",
+    left_ring="Rufescent Ring",
+    right_ring="Ifrit Ring",
+    back={ name="Intarabus's Cape", augments={'STR+20','Accuracy+20 Attack+20','Weapon skill damage +10%',}},
+}

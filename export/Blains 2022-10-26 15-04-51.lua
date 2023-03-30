@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    sub={ name="Fusetto +2", augments={'TP Bonus +1000',}},
+    ammo="Staunch Tathlum",
+    head="Fili Calot +2",
+    body="Fili Hongreline +2",
+    hands="Fili Manchettes +2",
+    legs="Fili Rhingrave +2",
+    feet="Fili Cothurnes +2",
+    neck="Elite Royal Collar",
+    waist="Flume Belt +1",
+    left_ear="Eabani Earring",
+    right_ear="Ethereal Earring",
+    left_ring="Inyanga Ring",
+    right_ring="Defending Ring",
+    back={ name="Intarabus's Cape", augments={'CHR+20','Mag. Acc+20 /Mag. Dmg.+20','Mag. Acc.+9','"Fast Cast"+10','Damage taken-5%',}},
+}

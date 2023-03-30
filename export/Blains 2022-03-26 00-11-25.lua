@@ -1,0 +1,17 @@
+sets.exported={
+    main="Daybreak",
+    sub="Sors Shield",
+    ammo="Staunch Tathlum",
+    head="Ebers Cap +1",
+    body="Ebers Bliaut +1",
+    hands="Theophany Mitts +2",
+    legs="Ebers Pant. +1",
+    feet={ name="Vanya Clogs", augments={'"Cure" potency +5%','"Cure" spellcasting time -15%','"Conserve MP"+6',}},
+    neck="Nodens Gorget",
+    waist="Austerity Belt",
+    left_ear="Nourish. Earring +1",
+    right_ear="Mendi. Earring",
+    left_ring="Lebeche Ring",
+    right_ring="Janniston Ring",
+    back={ name="Alaunus's Cape", augments={'MND+20','Eva.+20 /Mag. Eva.+20','MND+10','"Fast Cast"+10','Damage taken-5%',}},
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Vampirism", augments={'STR+10','INT+10','"Occult Acumen"+10','DMG:+15',}},
+    sub="Ark Shield",
+    range="Gjallarhorn",
+    head="Brioso Roundlet +1",
+    body="Inyanga Jubbah +2",
+    hands={ name="Gende. Gages +1", augments={'Phys. dmg. taken -3%','Magic dmg. taken -3%','Song spellcasting time -5%',}},
+    legs="Aya. Cosciales +2",
+    feet={ name="Telchine Pigaches", augments={'Mag. Evasion+25','Song spellcasting time -7%',}},
+    neck="Elite Royal Collar",
+    waist="Witful Belt",
+    left_ear="Aoidos' Earring",
+    right_ear="Loquac. Earring",
+    left_ring="Inyanga Ring",
+    right_ring="Prolix Ring",
+    back="Swith Cape",
+}

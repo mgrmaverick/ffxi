@@ -1,0 +1,17 @@
+sets.exported={
+    main="Tauret",
+    sub={ name="Centovente", augments={'TP Bonus +1000',}},
+    ammo="Seeth. Bomblet +1",
+    head="Pill. Bonnet +3",
+    body={ name="Herculean Vest", augments={'Weapon skill damage +4%','STR+5','Attack+14',}},
+    hands="Meg. Gloves +2",
+    legs={ name="Plun. Culottes +3", augments={'Enhances "Feint" effect',}},
+    feet={ name="Herculean Boots", augments={'Attack+24','Weapon skill damage +4%','Accuracy+2',}},
+    neck="Sanctity Necklace",
+    waist="Eschan Stone",
+    left_ear={ name="Moonshade Earring", augments={'Accuracy+4','TP Bonus +250',}},
+    right_ear="Friomisi Earring",
+    left_ring="Epaminondas's Ring",
+    right_ring="Dingir Ring",
+    back={ name="Toutatis's Cape", augments={'DEX+20','Accuracy+20 Attack+20','DEX+10','Weapon skill damage +10%',}},
+}

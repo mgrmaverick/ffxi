@@ -1,0 +1,17 @@
+sets.exported={
+    main="Bunzi's Rod",
+    sub="Ammurapi Shield",
+    ammo="Staunch Tathlum",
+    head="Befouled Crown",
+    body={ name="Viti. Tabard +2", augments={'Enhances "Chainspell" effect',}},
+    hands={ name="Viti. Gloves +2", augments={'Enhancing Magic duration',}},
+    legs={ name="Carmine Cuisses +1", augments={'HP+80','STR+12','INT+12',}},
+    feet="Leth. Houseaux +1",
+    neck="Incanter's Torque",
+    waist="Olympus Sash",
+    left_ear="Andoaa Earring",
+    right_ear="Mimir Earring",
+    left_ring="Stikini Ring +1",
+    right_ring="Kishar Ring",
+    back="Merciful Cape",
+}

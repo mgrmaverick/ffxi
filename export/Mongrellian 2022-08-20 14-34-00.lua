@@ -1,0 +1,17 @@
+sets.exported={
+    main="Daybreak",
+    sub="Ammurapi Shield",
+    ammo="Hydrocera",
+    head="Malignance Chapeau",
+    body="Shamash Robe",
+    hands="Regal Cuffs",
+    legs="Malignance Tights",
+    feet="Malignance Boots",
+    neck="Incanter's Torque",
+    waist="Sacro Cord",
+    left_ear="Regal Earring",
+    right_ear="Malignance Earring",
+    left_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    right_ring="Stikini Ring",
+    back="Altruistic Cape",
+}

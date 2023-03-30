@@ -1,0 +1,17 @@
+sets.exported={
+    main="Lycurgos",
+    sub="Utu Grip",
+    ammo={ name="Coiste Bodhar", augments={'Path: A',}},
+    head="Hjarrandi Helm",
+    body="Boii Lorica +2",
+    hands="Sakpata's Gauntlets",
+    legs="Pumm. Cuisses +3",
+    feet="Flam. Gambieras +2",
+    neck={ name="War. Beads +2", augments={'Path: A',}},
+    waist={ name="Sailfi Belt +1", augments={'Path: A',}},
+    left_ear={ name="Schere Earring", augments={'Path: A',}},
+    right_ear={ name="Boii Earring +1", augments={'System: 1 ID: 1676 Val: 0','Accuracy+14','Mag. Acc.+14','Crit.hit rate+5',}},
+    left_ring="Moonlight Ring",
+    right_ring="Niqmaddu Ring",
+    back={ name="Cichol's Mantle", augments={'DEX+20','Accuracy+20 Attack+20','"Dbl.Atk."+10','Damage taken-5%',}},
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    sub="Toreutic Shield",
+    ammo={ name="Coiste Bodhar", augments={'Path: A',}},
+    head="Sakpata's Helm",
+    body="Sakpata's Plate",
+    hands="Sakpata's Gauntlets",
+    legs="Sakpata's Cuisses",
+    feet="Sakpata's Leggings",
+    neck="Lissome Necklace",
+    waist={ name="Sailfi Belt +1", augments={'Path: A',}},
+    left_ear="Cessance Earring",
+    right_ear={ name="Schere Earring", augments={'Path: A',}},
+    left_ring="Chirich Ring +1",
+    right_ring="Niqmaddu Ring",
+    back={ name="Cichol's Mantle", augments={'DEX+20','Accuracy+20 Attack+20','"Dbl.Atk."+2','Damage taken-5%',}},
+}

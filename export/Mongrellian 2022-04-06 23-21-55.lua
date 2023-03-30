@@ -1,0 +1,17 @@
+sets.exported={
+    main="Caladbolg",
+    sub="Utu Grip",
+    ammo="Hydrocera",
+    head="Ig. Burgeonet +2",
+    body="Carm. Scale Mail",
+    hands={ name="Fall. Fin. Gaunt. +3", augments={'Enhances "Diabolic Eye" effect',}},
+    legs={ name="Fall. Flanchard +3", augments={'Enhances "Muted Soul" effect',}},
+    feet="Ratri Sollerets",
+    neck="Erra Pendant",
+    waist="Eschan Stone",
+    left_ear="Malignance Earring",
+    right_ear="Crep. Earring",
+    left_ring="Evanescence Ring",
+    right_ring="Stikini Ring",
+    back={ name="Niht Mantle", augments={'Attack+6','Dark magic skill +10','"Drain" and "Aspir" potency +20',}},
+}

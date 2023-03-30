@@ -1,0 +1,17 @@
+sets.exported={
+    main="Daybreak",
+    sub="Genmei Shield",
+    range="Daurdabla",
+    head="Brioso Roundlet +1",
+    body="Brioso Justau. +2",
+    hands="Fili Manchettes +1",
+    legs="Inyanga Shalwar +2",
+    feet="Brioso Slippers +3",
+    neck="Mnbw. Whistle +1",
+    waist="Witful Belt",
+    left_ear="Hermetic Earring",
+    right_ear="Loquac. Earring",
+    left_ring="Inyanga Ring",
+    right_ring="Stikini Ring",
+    back={ name="Intarabus's Cape", augments={'CHR+20','Mag. Acc+20 /Mag. Dmg.+20','Mag. Acc.+9','"Fast Cast"+10','Damage taken-5%',}},
+}

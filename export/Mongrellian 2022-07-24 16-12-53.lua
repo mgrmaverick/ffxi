@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    sub={ name="Ternion Dagger +1", augments={'Path: A',}},
+    ammo={ name="Coiste Bodhar", augments={'Path: A',}},
+    head="Nyame Helm",
+    body={ name="Nyame Mail", augments={'Path: B',}},
+    hands="Nyame Gauntlets",
+    legs="Nyame Flanchard",
+    feet="Nyame Sollerets",
+    neck="Rep. Plat. Medal",
+    waist={ name="Sailfi Belt +1", augments={'Path: A',}},
+    left_ear={ name="Moonshade Earring", augments={'Accuracy+4','TP Bonus +250',}},
+    right_ear="Regal Earring",
+    left_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    right_ring="Karieyh Ring",
+    back={ name="Mecisto. Mantle", augments={'Cap. Point+49%','INT+2','"Mag.Atk.Bns."+1','DEF+6',}},
+}

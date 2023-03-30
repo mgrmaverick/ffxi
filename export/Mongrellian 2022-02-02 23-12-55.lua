@@ -1,0 +1,17 @@
+sets.exported={
+    main="Tauret",
+    sub={ name="Ternion Dagger +1", augments={'Path: A',}},
+    ammo="Per. Lucky Egg",
+    head="Malignance Chapeau",
+    body={ name="Taeon Tabard", augments={'Spell interruption rate down -9%','HP+30',}},
+    hands={ name="Plun. Armlets +3", augments={'Enhances "Perfect Dodge" effect',}},
+    legs="Malignance Tights",
+    feet="Skulk. Poulaines +1",
+    neck={ name="Jeweled Collar", augments={'"Fast Cast"+3','INT+2','CHR+3',}},
+    waist="Chaac Belt",
+    left_ear="Etiolation Earring",
+    right_ear="Loquac. Earring",
+    left_ring="Defending Ring",
+    right_ring="Prolix Ring",
+    back={ name="Toutatis's Cape", augments={'DEX+20','Accuracy+20 Attack+20','DEX+10','"Store TP"+10','Phys. dmg. taken-10%',}},
+}

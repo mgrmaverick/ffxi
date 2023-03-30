@@ -1,0 +1,17 @@
+sets.exported={
+    main="Caladbolg",
+    sub="Utu Grip",
+    ammo="Hydrocera",
+    head="Carmine Mask +1",
+    body="Sacro Breastplate",
+    hands={ name="Leyline Gloves", augments={'Accuracy+15','Mag. Acc.+15','"Mag.Atk.Bns."+15','"Fast Cast"+3',}},
+    legs="Nyame Flanchard",
+    feet="Nyame Sollerets",
+    neck={ name="Jeweled Collar", augments={'"Fast Cast"+3','INT+2','CHR+3',}},
+    waist="Eschan Stone",
+    left_ear="Malignance Earring",
+    right_ear="Loquac. Earring",
+    left_ring="Kishar Ring",
+    right_ring="Prolix Ring",
+    back={ name="Niht Mantle", augments={'Attack+6','Dark magic skill +10','"Drain" and "Aspir" potency +20',}},
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main="Sakpata's Sword",
+    sub="Ammurapi Shield",
+    ammo="Staunch Tathlum",
+    head="Befouled Crown",
+    body={ name="Taeon Tabard", augments={'Attack+23','"Dual Wield"+3','Phalanx +3',}},
+    hands={ name="Taeon Gloves", augments={'Accuracy+18 Attack+18','"Dual Wield"+4','Phalanx +3',}},
+    legs={ name="Taeon Tights", augments={'Accuracy+17 Attack+17','"Dual Wield"+3','Phalanx +3',}},
+    feet={ name="Taeon Boots", augments={'Weapon Skill Acc.+20','Phalanx +3',}},
+    neck="Incanter's Torque",
+    waist="Embla Sash",
+    left_ear="Mimir Earring",
+    right_ear={ name="Leth. Earring +1", augments={'System: 1 ID: 1676 Val: 0','Accuracy+13','Mag. Acc.+13','"Dbl.Atk."+4',}},
+    left_ring="Stikini Ring +1",
+    right_ring="Stikini Ring +1",
+    back={ name="Ghostfyre Cape", augments={'Enfb.mag. skill +5','Enha.mag. skill +2','Mag. Acc.+6','Enh. Mag. eff. dur. +18',}},
+}

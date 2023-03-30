@@ -1,0 +1,16 @@
+sets.exported={
+    main="Karambit",
+    ammo={ name="Coiste Bodhar", augments={'Path: A',}},
+    head={ name="Adhemar Bonnet +1", augments={'STR+12','DEX+12','Attack+20',}},
+    body="Mpaca's Doublet",
+    hands={ name="Adhemar Wrist. +1", augments={'STR+12','DEX+12','Attack+20',}},
+    legs="Mpaca's Hose",
+    feet={ name="Herculean Boots", augments={'Attack+27','Crit. hit damage +4%','DEX+15','Accuracy+11',}},
+    neck="Fotia Gorget",
+    waist="Moonbow Belt +1",
+    left_ear="Sherida Earring",
+    right_ear={ name="Schere Earring", augments={'Path: A',}},
+    left_ring="Gere Ring",
+    right_ring="Niqmaddu Ring",
+    back={ name="Segomo's Mantle", augments={'STR+20','Accuracy+20 Attack+20','STR+10','Crit.hit rate+10',}},
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    sub="Sacro Bulwark",
+    ammo="Yetshila +1",
+    head={ name="Blistering Sallet +1", augments={'Path: A',}},
+    body="Lethargy Sayon +2",
+    hands="Malignance Gloves",
+    legs={ name="Viti. Tights +2", augments={'Enspell Damage','Accuracy',}},
+    feet="Malignance Boots",
+    neck="Fotia Gorget",
+    waist="Fotia Belt",
+    left_ear="Sherida Earring",
+    right_ear="Mache Earring +1",
+    left_ring="Karieyh Ring",
+    right_ring="Ilabrat Ring",
+    back={ name="Sucellos's Cape", augments={'MND+20','Accuracy+20 Attack+20','MND+10','Weapon skill damage +10%',}},
+}

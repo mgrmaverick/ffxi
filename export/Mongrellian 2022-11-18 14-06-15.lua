@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Epeolatry", augments={'Path: A',}},
+    sub={ name="Refined Grip +1", augments={'Path: A',}},
+    ammo="Staunch Tathlum +1",
+    head={ name="Nyame Helm", augments={'Path: B',}},
+    body="Erilaz Surcoat +2",
+    hands={ name="Nyame Gauntlets", augments={'Path: B',}},
+    legs="Eri. Leg Guards +2",
+    feet="Erilaz Greaves +2",
+    neck={ name="Futhark Torque +2", augments={'Path: A',}},
+    waist="Flume Belt +1",
+    left_ear={ name="Odnowa Earring +1", augments={'Path: A',}},
+    right_ear={ name="Erilaz Earring +1", augments={'System: 1 ID: 1676 Val: 0','Accuracy+12','Mag. Acc.+12','Damage taken-4%',}},
+    left_ring="Purity Ring",
+    right_ring="Moonlight Ring",
+    back={ name="Ogma's Cape", augments={'HP+60','Eva.+20 /Mag. Eva.+20','Enmity+10','Parrying rate+5%',}},
+}

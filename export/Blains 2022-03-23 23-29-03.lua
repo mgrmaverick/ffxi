@@ -1,0 +1,17 @@
+sets.exported={
+    main="Daybreak",
+    sub="Sors Shield",
+    ammo="Staunch Tathlum",
+    head="Theophany Cap +2",
+    body="Theo. Bliaut +1",
+    hands="Theophany Mitts +2",
+    legs="Ebers Pant. +1",
+    feet="Regal Pumps +1",
+    neck="Nodens Gorget",
+    waist="Austerity Belt",
+    left_ear="Nourish. Earring +1",
+    right_ear="Mendi. Earring",
+    left_ring="Stikini Ring",
+    right_ring="Janniston Ring",
+    back="Tempered Cape +1",
+}

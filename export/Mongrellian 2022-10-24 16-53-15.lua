@@ -1,0 +1,17 @@
+sets.exported={
+    main="Bunzi's Rod",
+    sub="Ammurapi Shield",
+    ammo="Ghastly Tathlum +1",
+    head={ name="Merlinic Hood", augments={'Mag. Acc.+22','"Fast Cast"+5','INT+6','"Mag.Atk.Bns."+13',}},
+    body="Shamash Robe",
+    hands="Bunzi's Gloves",
+    legs="Bunzi's Pants",
+    feet={ name="Vitiation Boots +2", augments={'Immunobreak Chance',}},
+    neck="Baetyl Pendant",
+    waist="Sacro Cord",
+    left_ear="Malignance Earring",
+    right_ear="Regal Earring",
+    left_ring="Freke Ring",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back={ name="Sucellos's Cape", augments={'MND+20','Mag. Acc+20 /Mag. Dmg.+20','"Fast Cast"+10','Damage taken-5%',}},
+}

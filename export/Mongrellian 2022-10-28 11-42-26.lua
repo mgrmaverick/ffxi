@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    sub="Sacro Bulwark",
+    ammo="Ghastly Tathlum +1",
+    head={ name="Nyame Helm", augments={'Path: B',}},
+    body={ name="Nyame Mail", augments={'Path: B',}},
+    hands="Jhakri Cuffs +2",
+    legs={ name="Nyame Flanchard", augments={'Path: B',}},
+    feet={ name="Nyame Sollerets", augments={'Path: B',}},
+    neck="Sibyl Scarf",
+    waist="Sacro Cord",
+    left_ear={ name="Moonshade Earring", augments={'Accuracy+4','TP Bonus +250',}},
+    right_ear="Regal Earring",
+    left_ring="Karieyh Ring",
+    right_ring="Freke Ring",
+    back={ name="Sucellos's Cape", augments={'MND+20','Accuracy+20 Attack+20','MND+10','Weapon skill damage +10%',}},
+}

@@ -1,0 +1,16 @@
+sets.exported={
+    main="Karambit",
+    ammo="Knobkierrie",
+    head="Mpaca's Cap",
+    body="Mpaca's Doublet",
+    hands={ name="Mpaca's Gloves", augments={'Path: A',}},
+    legs="Mpaca's Hose",
+    feet="Mpaca's Boots",
+    neck={ name="Mnk. Nodowa +1", augments={'Path: A',}},
+    waist="Moonbow Belt",
+    left_ear={ name="Schere Earring", augments={'Path: A',}},
+    right_ear={ name="Moonshade Earring", augments={'Accuracy+4','TP Bonus +250',}},
+    left_ring="Niqmaddu Ring",
+    right_ring="Gere Ring",
+    back={ name="Segomo's Mantle", augments={'DEX+20','Accuracy+20 Attack+20','DEX+10','"Dbl.Atk."+10','Phys. dmg. taken-10%',}},
+}

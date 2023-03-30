@@ -1,0 +1,17 @@
+sets.exported={
+    main="Beneficus",
+    sub="Sors Shield",
+    ammo="Impatiens",
+    head={ name="Telchine Cap", augments={'Enh. Mag. eff. dur. +10',}},
+    body="Ebers Bliaut +1",
+    hands={ name="Telchine Gloves", augments={'Enh. Mag. eff. dur. +10',}},
+    legs="Ebers Pant. +1",
+    feet="Theo. Duckbills +2",
+    neck="Melic Torque",
+    waist="Witful Belt",
+    left_ear="Mimir Earring",
+    right_ear="Malignance Earring",
+    left_ring="Stikini Ring",
+    right_ring="Stikini Ring",
+    back={ name="Mending Cape", augments={'Healing magic skill +8','Enha.mag. skill +10','Mag. Acc.+4',}},
+}

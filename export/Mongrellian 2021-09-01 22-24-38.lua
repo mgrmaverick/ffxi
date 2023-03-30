@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Gada", augments={'"Fast Cast"+6','VIT+5','Mag. Acc.+19','DMG:+10',}},
+    sub="Genmei Shield",
+    range={ name="Dunna", augments={'MP+20','Mag. Acc.+10','"Fast Cast"+3',}},
+    head="Befouled Crown",
+    body={ name="Telchine Chas.", augments={'Mag. Evasion+5','Spell interruption rate down -9%','Enh. Mag. eff. dur. +10',}},
+    hands={ name="Telchine Gloves", augments={'Mag. Evasion+17','Spell interruption rate down -7%','Enh. Mag. eff. dur. +10',}},
+    legs="Geomancy Pants +3",
+    feet="Regal Pumps +1",
+    neck="Incanter's Torque",
+    waist="Olympus Sash",
+    left_ear="Andoaa Earring",
+    right_ear="Mimir Earring",
+    left_ring="Stikini Ring",
+    right_ring="Stikini Ring",
+    back="Merciful Cape",
+}

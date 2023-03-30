@@ -1,0 +1,17 @@
+sets.exported={
+    main="Chatoyant Staff",
+    sub="Achaq Grip",
+    ammo="Pemphredo Tathlum",
+    head="Ebers Cap +2",
+    body="Ebers Bliaut +2",
+    hands="Theophany Mitts +2",
+    legs="Ebers Pant. +2",
+    feet={ name="Vanya Clogs", augments={'"Cure" potency +5%','"Cure" spellcasting time -15%','"Conserve MP"+6',}},
+    neck="Henic Torque",
+    waist="Hachirin-no-Obi",
+    left_ear="Mendi. Earring",
+    right_ear={ name="Ebers Earring", augments={'System: 1 ID: 1676 Val: 0','Accuracy+6','Mag. Acc.+6',}},
+    left_ring="Lebeche Ring",
+    right_ring="Janniston Ring",
+    back={ name="Mending Cape", augments={'Healing magic skill +8','Enha.mag. skill +10','Mag. Acc.+4',}},
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main="Tauret",
+    sub="Gleti's Knife",
+    ammo="Crepuscular Pebble",
+    head={ name="Plun. Bonnet +3", augments={'Enhances "Aura Steal" effect',}},
+    body={ name="Plunderer's Vest +3", augments={'Enhances "Ambush" effect',}},
+    hands="Meg. Gloves +2",
+    legs={ name="Plun. Culottes +3", augments={'Enhances "Feint" effect',}},
+    feet={ name="Plun. Poulaines +3", augments={'Enhances "Assassin\'s Charge" effect',}},
+    neck={ name="Asn. Gorget +1", augments={'Path: A',}},
+    waist={ name="Sailfi Belt +1", augments={'Path: A',}},
+    left_ear={ name="Moonshade Earring", augments={'Accuracy+4','TP Bonus +250',}},
+    right_ear="Odr Earring",
+    left_ring="Ilabrat Ring",
+    right_ring="Regal Ring",
+    back={ name="Toutatis's Cape", augments={'DEX+20','Accuracy+20 Attack+20','DEX+10','Weapon skill damage +10%',}},
+}

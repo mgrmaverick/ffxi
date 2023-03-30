@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    sub={ name="Ternion Dagger +1", augments={'Path: A',}},
+    ammo={ name="Coiste Bodhar", augments={'Path: A',}},
+    head="Malignance Chapeau",
+    body="Malignance Tabard",
+    hands="Malignance Gloves",
+    legs="Malignance Tights",
+    feet="Malignance Boots",
+    neck="Lissome Necklace",
+    waist={ name="Sailfi Belt +1", augments={'Path: A',}},
+    left_ear="Eabani Earring",
+    right_ear="Sherida Earring",
+    left_ring="Chirich Ring +1",
+    right_ring="Chirich Ring +1",
+    back={ name="Mecisto. Mantle", augments={'Cap. Point+49%','INT+2','"Mag.Atk.Bns."+1','DEF+6',}},
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main="Epeolatry",
+    sub={ name="Refined Grip +1", augments={'Path: A',}},
+    ammo="Knobkierrie",
+    head={ name="Herculean Helm", augments={'Weapon skill damage +2%','DEX+15','Accuracy+11','Attack+14',}},
+    body={ name="Adhemar Jacket +1", augments={'STR+12','DEX+12','Attack+20',}},
+    hands="Meg. Gloves +2",
+    legs={ name="Lustr. Subligar +1", augments={'Accuracy+20','DEX+8','Crit. hit rate+3%',}},
+    feet={ name="Lustra. Leggings +1", augments={'HP+65','STR+15','DEX+15',}},
+    neck="Rep. Plat. Medal",
+    waist={ name="Sailfi Belt +1", augments={'Path: A',}},
+    left_ear={ name="Moonshade Earring", augments={'Accuracy+4','TP Bonus +250',}},
+    right_ear="Sherida Earring",
+    left_ring="Ilabrat Ring",
+    right_ring="Karieyh Ring",
+    back={ name="Ogma's Cape", augments={'DEX+20','Accuracy+20 Attack+20','DEX+8','Weapon skill damage +10%',}},
+}

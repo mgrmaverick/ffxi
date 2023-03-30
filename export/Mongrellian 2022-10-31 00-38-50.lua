@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Epeolatry", augments={'Path: A',}},
+    sub={ name="Refined Grip +1", augments={'Path: A',}},
+    ammo="Homiliary",
+    head={ name="Nyame Helm", augments={'Path: B',}},
+    body="Runeist's Coat +3",
+    hands="Regal Gauntlets",
+    legs="Eri. Leg Guards +2",
+    feet="Erilaz Greaves +2",
+    neck={ name="Futhark Torque +2", augments={'Path: A',}},
+    waist="Fucho-no-Obi",
+    left_ear={ name="Odnowa Earring +1", augments={'Path: A',}},
+    right_ear={ name="Erilaz Earring +1", augments={'System: 1 ID: 1676 Val: 0','Accuracy+12','Mag. Acc.+12','Damage taken-4%',}},
+    left_ring="Stikini Ring +1",
+    right_ring="Stikini Ring +1",
+    back={ name="Ogma's Cape", augments={'HP+60','Eva.+20 /Mag. Eva.+20','Mag. Evasion+10','Enmity+10','Phys. dmg. taken-10%',}},
+}

@@ -1,0 +1,16 @@
+sets.exported={
+    main="Karambit",
+    ammo="Knobkierrie",
+    head="Malignance Chapeau",
+    body="Ken. Samue",
+    hands="Ken. Tekko",
+    legs="Malignance Tights",
+    feet="Malignance Boots",
+    neck="Monk's Nodowa",
+    waist="Black Belt",
+    left_ear="Mache Earring",
+    right_ear="Brutal Earring",
+    left_ring="Epona's Ring",
+    right_ring="Chirich Ring",
+    back={ name="Segomo's Mantle", augments={'DEX+20','Accuracy+20 Attack+20','"Dbl.Atk."+10','Phys. dmg. taken-10%',}},
+}

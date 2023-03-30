@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Kali", augments={'Mag. Acc.+15','String instrument skill +10','Wind instrument skill +10',}},
+    sub="Genbu's Shield",
+    range="Gjallarhorn",
+    head="Inyanga Tiara +2",
+    body="Inyanga Jubbah +2",
+    hands="Inyan. Dastanas +2",
+    legs="Aya. Cosciales +2",
+    feet="Aya. Gambieras +1",
+    neck="Elite Royal Collar",
+    waist="Witful Belt",
+    left_ear="Aoidos' Earring",
+    right_ear="Loquac. Earring",
+    left_ring="Inyanga Ring",
+    right_ring="Stikini Ring",
+    back={ name="Intarabus's Cape", augments={'CHR+20','Mag. Acc+20 /Mag. Dmg.+20','Mag. Acc.+4','"Fast Cast"+10',}},
+}

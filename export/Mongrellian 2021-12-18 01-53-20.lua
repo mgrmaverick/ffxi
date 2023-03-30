@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Rubicundity", augments={'Mag. Acc.+5','"Mag.Atk.Bns."+3','Dark magic skill +8',}},
+    sub="Ammurapi Shield",
+    range={ name="Dunna", augments={'MP+20','Mag. Acc.+10','"Fast Cast"+3',}},
+    head={ name="Bagua Galero +2", augments={'Enhances "Primeval Zeal" effect',}},
+    body={ name="Bagua Tunic +3", augments={'Enhances "Bolster" effect',}},
+    hands="Geo. Mitaines +3",
+    legs="Geomancy Pants +3",
+    feet="Agwu's Pigaches",
+    neck="Erra Pendant",
+    waist="Fucho-no-Obi",
+    left_ear="Hirudinea Earring",
+    right_ear="Regal Earring",
+    left_ring="Evanescence Ring",
+    right_ring="Stikini Ring",
+    back="Merciful Cape",
+}

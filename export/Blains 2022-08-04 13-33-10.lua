@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Bihu Knife", augments={'Path: A',}},
+    sub="Genmei Shield",
+    range={ name="Terpander", augments={'HP+30','Mag. Acc.+10','Damage Taken -3%',}},
+    head="Inyanga Tiara +2",
+    body="Inyanga Jubbah +2",
+    hands="Aya. Manopolas +2",
+    legs="Aya. Cosciales +2",
+    feet="Fili Cothurnes +1",
+    neck={ name="Bard's Charm +1", augments={'Path: A',}},
+    waist={ name="Sailfi Belt +1", augments={'Path: A',}},
+    left_ear="Eabani Earring",
+    right_ear="Ethereal Earring",
+    left_ring="Inyanga Ring",
+    right_ring="Stikini Ring",
+    back={ name="Intarabus's Cape", augments={'CHR+20','Mag. Acc+20 /Mag. Dmg.+20','Mag. Acc.+9','"Fast Cast"+10','Damage taken-5%',}},
+}

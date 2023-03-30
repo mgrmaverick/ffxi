@@ -1,0 +1,17 @@
+sets.exported={
+    main="Idris",
+    sub="Genmei Shield",
+    range={ name="Dunna", augments={'MP+20','Mag. Acc.+10','"Fast Cast"+3',}},
+    head={ name="Telchine Cap", augments={'Mag. Evasion+19','Pet: "Regen"+3','Pet: Damage taken -4%',}},
+    body="Shamash Robe",
+    hands="Geo. Mitaines +3",
+    legs={ name="Telchine Braconi", augments={'Mag. Evasion+18','Pet: "Regen"+3','Pet: Damage taken -3%',}},
+    feet={ name="Bagua Sandals +3", augments={'Enhances "Radial Arcana" effect',}},
+    neck={ name="Bagua Charm +1", augments={'Path: A',}},
+    waist="Isa Belt",
+    left_ear="Etiolation Earring",
+    right_ear="Handler's Earring +1",
+    left_ring="Defending Ring",
+    right_ring={ name="Gelatinous Ring +1", augments={'Path: A',}},
+    back={ name="Nantosuelta's Cape", augments={'MP+60','Eva.+20 /Mag. Eva.+20','Pet: "Regen"+10','Damage taken-5%',}},
+}

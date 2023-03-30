@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Rubicundity", augments={'Mag. Acc.+5','"Mag.Atk.Bns."+3','Dark magic skill +8',}},
+    sub="Ammurapi Shield",
+    ammo="Pemphredo Tathlum",
+    head="Azimuth Hood +2",
+    body="Geomancy Tunic +2",
+    hands="Geo. Mitaines +3",
+    legs="Geomancy Pants +3",
+    feet="Geo. Sandals +3",
+    neck="Erra Pendant",
+    waist="Sacro Cord",
+    left_ear="Malignance Earring",
+    right_ear="Regal Earring",
+    left_ring="Evanescence Ring",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back={ name="Nantosuelta's Cape", augments={'INT+20','Mag. Acc+20 /Mag. Dmg.+20','INT+8','"Mag.Atk.Bns."+10',}},
+}

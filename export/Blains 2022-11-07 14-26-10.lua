@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Solstice", augments={'Mag. Acc.+20','Pet: Damage taken -4%','"Fast Cast"+5',}},
+    sub="Genmei Shield",
+    range={ name="Dunna", augments={'MP+20','Mag. Acc.+10','"Fast Cast"+3',}},
+    head="Azimuth Hood +1",
+    body={ name="Bagua Tunic +1", augments={'Enhances "Bolster" effect',}},
+    hands="Geo. Mitaines +1",
+    legs="Geo. Pants +1",
+    feet={ name="Vanya Clogs", augments={'"Cure" potency +5%','"Cure" spellcasting time -15%','"Conserve MP"+6',}},
+    neck={ name="Bagua Charm +1", augments={'Path: A',}},
+    waist="Austerity Belt",
+    left_ear="Gna Earring",
+    right_ear={ name="Azimuth Earring", augments={'System: 1 ID: 1676 Val: 0','Mag. Acc.+7',}},
+    left_ring="Stikini Ring",
+    right_ring="Stikini Ring",
+    back={ name="Lifestream Cape", augments={'Geomancy Skill +9','Indi. eff. dur. +20','Pet: Damage taken -5%',}},
+}

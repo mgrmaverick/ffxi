@@ -1,0 +1,17 @@
+sets.exported={
+    main="Maxentius",
+    sub="Ammurapi Shield",
+    ammo="Crepuscular Pebble",
+    head="Nyame Helm",
+    body="Nyame Mail",
+    hands="Nyame Gauntlets",
+    legs="Nyame Flanchard",
+    feet="Nyame Sollerets",
+    neck="Sanctity Necklace",
+    waist="Fotia Belt",
+    left_ear={ name="Moonshade Earring", augments={'Accuracy+4','TP Bonus +250',}},
+    right_ear="Ishvara Earring",
+    left_ring="Karieyh Ring",
+    right_ring="Epaminondas's Ring",
+    back={ name="Nantosuelta's Cape", augments={'MND+20','Accuracy+20 Attack+20','Weapon skill damage +10%',}},
+}

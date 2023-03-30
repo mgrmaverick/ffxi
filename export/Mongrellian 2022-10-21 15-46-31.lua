@@ -1,0 +1,17 @@
+sets.exported={
+    main="Daybreak",
+    sub="Ammurapi Shield",
+    ammo="Staunch Tathlum",
+    head={ name="Telchine Cap", augments={'Mag. Acc.+10','"Fast Cast"+5','Enh. Mag. eff. dur. +8',}},
+    body={ name="Viti. Tabard +2", augments={'Enhances "Chainspell" effect',}},
+    hands={ name="Telchine Gloves", augments={'Mag. Evasion+17','Spell interruption rate down -7%','Enh. Mag. eff. dur. +10',}},
+    legs={ name="Telchine Braconi", augments={'"Mag.Atk.Bns."+15','"Fast Cast"+4','Enh. Mag. eff. dur. +7',}},
+    feet={ name="Telchine Pigaches", augments={'Mag. Acc.+5','"Cure" spellcasting time -4%','Enh. Mag. eff. dur. +7',}},
+    neck="Incanter's Torque",
+    waist="Embla Sash",
+    left_ear="Malignance Earring",
+    right_ear={ name="Leth. Earring +1", augments={'System: 1 ID: 1676 Val: 0','Accuracy+13','Mag. Acc.+13','"Dbl.Atk."+4',}},
+    left_ring="Stikini Ring",
+    right_ring="Kishar Ring",
+    back={ name="Sucellos's Cape", augments={'MND+20','Mag. Acc+20 /Mag. Dmg.+20','"Fast Cast"+10','Damage taken-5%',}},
+}

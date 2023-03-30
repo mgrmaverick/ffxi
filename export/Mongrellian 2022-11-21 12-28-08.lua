@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Epeolatry", augments={'Path: A',}},
+    sub={ name="Refined Grip +1", augments={'Path: A',}},
+    ammo="Staunch Tathlum +1",
+    head={ name="Fu. Bandeau +3", augments={'Enhances "Battuta" effect',}},
+    body={ name="Herculean Vest", augments={'"Triple Atk."+1','"Store TP"+4','Phalanx +4',}},
+    hands={ name="Taeon Gloves", augments={'Accuracy+18 Attack+18','"Dual Wield"+4','Phalanx +3',}},
+    legs={ name="Taeon Tights", augments={'Accuracy+17 Attack+17','"Dual Wield"+3','Phalanx +3',}},
+    feet={ name="Taeon Boots", augments={'Weapon Skill Acc.+20','Phalanx +3',}},
+    neck="Incanter's Torque",
+    waist="Olympus Sash",
+    left_ear={ name="Odnowa Earring +1", augments={'Path: A',}},
+    right_ear="Mimir Earring",
+    left_ring="Stikini Ring +1",
+    right_ring="Moonlight Ring",
+    back="Moonbeam Cape",
+}

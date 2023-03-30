@@ -1,0 +1,17 @@
+sets.exported={
+    main="Daybreak",
+    sub="Genmei Shield",
+    ammo="Pemphredo Tathlum",
+    head="Inyanga Tiara +2",
+    body="Brioso Justau. +2",
+    hands="Inyan. Dastanas +2",
+    legs="Brioso Cannions +2",
+    feet="Brioso Slippers +3",
+    neck="Henic Torque",
+    waist="Witful Belt",
+    left_ear="Hermetic Earring",
+    right_ear="Eabani Earring",
+    left_ring="Stikini Ring",
+    right_ring="Stikini Ring",
+    back={ name="Intarabus's Cape", augments={'CHR+20','Mag. Acc+20 /Mag. Dmg.+20','Mag. Acc.+9','"Fast Cast"+10','Damage taken-5%',}},
+}

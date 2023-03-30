@@ -1,0 +1,17 @@
+sets.exported={
+    main="Daybreak",
+    sub="Sors Shield",
+    ammo="Impatiens",
+    head={ name="Vanya Hood", augments={'MP+50','"Fast Cast"+10','Haste+2%',}},
+    body="Inyanga Jubbah +2",
+    hands={ name="Gende. Gages +1", augments={'Phys. dmg. taken -4%','Magic dmg. taken -3%','"Cure" potency +7%',}},
+    legs="Aya. Cosciales +1",
+    feet="Regal Pumps +1",
+    neck="Orison Locket",
+    waist="Witful Belt",
+    left_ear="Malignance Earring",
+    right_ear="Loquac. Earring",
+    left_ring="Stikini Ring",
+    right_ring="Prolix Ring",
+    back="Pahtli Cape",
+}

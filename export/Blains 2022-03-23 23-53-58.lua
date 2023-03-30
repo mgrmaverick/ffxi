@@ -1,0 +1,17 @@
+sets.exported={
+    main="Daybreak",
+    sub="Sors Shield",
+    ammo="Staunch Tathlum",
+    head="Theophany Cap +2",
+    body="Ebers Bliaut +1",
+    hands="Theophany Mitts +2",
+    legs="Ebers Pant. +1",
+    feet="Theo. Duckbills +2",
+    neck="Nodens Gorget",
+    waist="Austerity Belt",
+    left_ear="Nourish. Earring +1",
+    right_ear="Mendi. Earring",
+    left_ring="Stikini Ring",
+    right_ring="Stikini Ring",
+    back={ name="Mending Cape", augments={'Healing magic skill +8','Enha.mag. skill +10','Mag. Acc.+4',}},
+}

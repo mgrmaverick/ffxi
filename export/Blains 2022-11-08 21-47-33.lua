@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Rubicundity", augments={'Mag. Acc.+1','"Mag.Atk.Bns."+5','"Conserve MP"+1',}},
+    sub="Genmei Shield",
+    ammo="Pemphredo Tathlum",
+    head="Geo. Galero +1",
+    body="Geo. Tunic +1",
+    hands={ name="Bagua Mitaines +1", augments={'Enhances "Curative Recantation" effect',}},
+    legs="Geo. Pants +1",
+    feet="Geo. Sandals +1",
+    neck={ name="Bagua Charm +1", augments={'Path: A',}},
+    waist="Austerity Belt",
+    left_ear="Malignance Earring",
+    right_ear={ name="Azimuth Earring", augments={'System: 1 ID: 1676 Val: 0','Mag. Acc.+7',}},
+    left_ring="Evanescence Ring",
+    right_ring="Stikini Ring",
+    back="Swith Cape",
+}

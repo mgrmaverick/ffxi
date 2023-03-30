@@ -1,0 +1,17 @@
+sets.exported={
+    main="Idris",
+    sub="Ammurapi Shield",
+    range={ name="Dunna", augments={'MP+20','Mag. Acc.+10','"Fast Cast"+3',}},
+    head="Nyame Helm",
+    body="Nyame Mail",
+    hands="Nyame Gauntlets",
+    legs="Nyame Flanchard",
+    feet="Nyame Sollerets",
+    neck="Lissome Necklace",
+    waist="Chaac Belt",
+    left_ear="Cessance Earring",
+    right_ear="Crep. Earring",
+    left_ring="Chirich Ring",
+    right_ring="Petrov Ring",
+    back="Moonbeam Cape",
+}

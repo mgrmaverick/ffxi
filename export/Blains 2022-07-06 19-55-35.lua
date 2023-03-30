@@ -1,0 +1,15 @@
+sets.exported={
+    range={ name="Linos", augments={'Accuracy+10','"Dbl.Atk."+1','Quadruple Attack +2',}},
+    head="Aya. Zucchetto +1",
+    body="Ayanmo Corazza +2",
+    hands="Aya. Manopolas +1",
+    legs="Aya. Cosciales +2",
+    feet="Aya. Gambieras +1",
+    neck={ name="Bard's Charm +1", augments={'Path: A',}},
+    waist="Sailfi Belt +1",
+    left_ear="Eabani Earring",
+    right_ear="Suppanomimi",
+    left_ring="Rajas Ring",
+    right_ring="Petrov Ring",
+    back={ name="Intarabus's Cape", augments={'CHR+20','Mag. Acc+20 /Mag. Dmg.+20','Mag. Acc.+9','"Fast Cast"+10','Damage taken-5%',}},
+}

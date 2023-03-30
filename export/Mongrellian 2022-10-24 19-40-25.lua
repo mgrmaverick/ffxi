@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Rubicundity", augments={'Mag. Acc.+5','"Mag.Atk.Bns."+3','Dark magic skill +8',}},
+    sub="Ammurapi Shield",
+    ammo="Hydrocera",
+    head="Ea Hat",
+    body="Shamash Robe",
+    hands="Bunzi's Gloves",
+    legs="Bunzi's Pants",
+    feet="Bunzi's Sabots",
+    neck="Erra Pendant",
+    waist="Sacro Cord",
+    left_ear="Malignance Earring",
+    right_ear={ name="Leth. Earring +1", augments={'System: 1 ID: 1676 Val: 0','Accuracy+13','Mag. Acc.+13','"Dbl.Atk."+4',}},
+    left_ring="Stikini Ring +1",
+    right_ring="Evanescence Ring",
+    back="Merciful Cape",
+}

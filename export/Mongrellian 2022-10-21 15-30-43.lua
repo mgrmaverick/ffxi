@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    sub="Sacro Bulwark",
+    ammo="Staunch Tathlum",
+    head="Malignance Chapeau",
+    body="Shamash Robe",
+    hands="Malignance Gloves",
+    legs={ name="Carmine Cuisses +1", augments={'HP+80','STR+12','INT+12',}},
+    feet="Malignance Boots",
+    neck={ name="Loricate Torque +1", augments={'Path: A',}},
+    waist="Flume Belt +1",
+    left_ear={ name="Odnowa Earring +1", augments={'Path: A',}},
+    right_ear="Etiolation Earring",
+    left_ring="Purity Ring",
+    right_ring="Defending Ring",
+    back={ name="Sucellos's Cape", augments={'MND+20','Mag. Acc+20 /Mag. Dmg.+20','"Fast Cast"+10','Damage taken-5%',}},
+}

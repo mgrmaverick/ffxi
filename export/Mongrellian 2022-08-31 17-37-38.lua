@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Caladbolg", augments={'Path: A',}},
+    sub="Utu Grip",
+    ammo={ name="Seeth. Bomblet +1", augments={'Path: A',}},
+    head="Sakpata's Helm",
+    body="Sacro Breastplate",
+    hands="Sakpata's Gauntlets",
+    legs="Sakpata's Cuisses",
+    feet="Sakpata's Leggings",
+    neck="Bathy Choker +1",
+    waist="Ioskeha Belt +1",
+    left_ear="Crep. Earring",
+    right_ear="Cessance Earring",
+    left_ring="Chirich Ring +1",
+    right_ring="Chirich Ring +1",
+    back={ name="Ankou's Mantle", augments={'DEX+20','Accuracy+20 Attack+20','Accuracy+10','"Dbl.Atk."+10','Phys. dmg. taken-10%',}},
+}

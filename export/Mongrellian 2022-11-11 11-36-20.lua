@@ -1,0 +1,17 @@
+sets.exported={
+    main="Bunzi's Rod",
+    sub="Ammurapi Shield",
+    ammo="Pemphredo Tathlum",
+    head="Leth. Chappel +2",
+    body="Lethargy Sayon +2",
+    hands="Leth. Ganth. +2",
+    legs="Leth. Fuseau +2",
+    feet="Leth. Houseaux +2",
+    neck="Sibyl Scarf",
+    waist="Sacro Cord",
+    left_ear="Malignance Earring",
+    right_ear="Regal Earring",
+    left_ring="Freke Ring",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back="Izdubar Mantle",
+}

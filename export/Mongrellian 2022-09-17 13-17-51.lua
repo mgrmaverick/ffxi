@@ -1,0 +1,17 @@
+sets.exported={
+    main="Tauret",
+    sub="Gleti's Knife",
+    ammo="Yamarang",
+    head="Skulker's Bonnet +2",
+    body="Pillager's Vest +3",
+    hands={ name="Adhemar Wrist. +1", augments={'STR+12','DEX+12','Attack+20',}},
+    legs="Pill. Culottes +3",
+    feet="Skulk. Poulaines +2",
+    neck={ name="Asn. Gorget +2", augments={'Path: A',}},
+    waist={ name="Kentarch Belt +1", augments={'Path: A',}},
+    left_ear="Crep. Earring",
+    right_ear="Odr Earring",
+    left_ring="Chirich Ring +1",
+    right_ring="Regal Ring",
+    back={ name="Toutatis's Cape", augments={'DEX+20','Accuracy+20 Attack+20','DEX+10','"Store TP"+10','Phys. dmg. taken-10%',}},
+}

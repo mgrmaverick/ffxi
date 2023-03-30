@@ -1,0 +1,17 @@
+sets.exported={
+    main="Epeolatry",
+    sub={ name="Refined Grip +1", augments={'Path: A',}},
+    ammo="Staunch Tathlum",
+    head="Carmine Mask +1",
+    body="Nyame Mail",
+    hands="Runeist's Mitons +2",
+    legs={ name="Futhark Trousers +2", augments={'Enhances "Inspire" effect',}},
+    feet="Nyame Sollerets",
+    neck="Incanter's Torque",
+    waist="Olympus Sash",
+    left_ear="Mimir Earring",
+    right_ear="Andoaa Earring",
+    left_ring={ name="Gelatinous Ring +1", augments={'Path: A',}},
+    right_ring="Defending Ring",
+    back="Moonbeam Cape",
+}

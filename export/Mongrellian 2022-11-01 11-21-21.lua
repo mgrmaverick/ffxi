@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Twashtar", augments={'Path: A',}},
+    sub="Gleti's Knife",
+    ammo="Barathrum",
+    head="Skulker's Bonnet +2",
+    body={ name="Plunderer's Vest +3", augments={'Enhances "Ambush" effect',}},
+    hands="Meg. Gloves +2",
+    legs="Meg. Chausses +2",
+    feet={ name="Plun. Poulaines +3", augments={'Enhances "Assassin\'s Charge" effect',}},
+    neck="Fotia Gorget",
+    waist="Fotia Belt",
+    left_ear="Sherida Earring",
+    right_ear={ name="Skulker's Earring", augments={'System: 1 ID: 1676 Val: 0','Accuracy+6','Mag. Acc.+6',}},
+    left_ring="Ilabrat Ring",
+    right_ring="Regal Ring",
+    back={ name="Toutatis's Cape", augments={'DEX+20','Accuracy+20 Attack+20','DEX+10','Weapon skill damage +10%',}},
+}

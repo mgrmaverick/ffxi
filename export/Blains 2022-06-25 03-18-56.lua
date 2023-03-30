@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Kali", augments={'Mag. Acc.+15','String instrument skill +10','Wind instrument skill +10',}},
+    sub="Genbu's Shield",
+    range="Blurred Harp +1",
+    head="Brioso Roundlet +1",
+    body="Brioso Justau. +2",
+    hands="Inyan. Dastanas +2",
+    legs="Aya. Cosciales +2",
+    feet="Brioso Slippers +3",
+    neck="Henic Torque",
+    waist="Witful Belt",
+    left_ear="Aoidos' Earring",
+    right_ear="Loquac. Earring",
+    left_ring="Stikini Ring",
+    right_ring="Stikini Ring",
+    back={ name="Intarabus's Cape", augments={'CHR+20','Mag. Acc+20 /Mag. Dmg.+20','Mag. Acc.+4','"Fast Cast"+10','Damage taken-3%',}},
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main="Daybreak",
+    sub="Ammurapi Shield",
+    ammo="Hydrocera",
+    head={ name="Viti. Chapeau +1", augments={'Enfeebling Magic duration','Magic Accuracy',}},
+    body={ name="Viti. Tabard +2", augments={'Enhances "Chainspell" effect',}},
+    hands={ name="Viti. Gloves +2", augments={'Enhancing Magic duration',}},
+    legs={ name="Viti. Tights +2", augments={'Enspell Damage','Accuracy',}},
+    feet={ name="Vitiation Boots +2", augments={'Immunobreak Chance',}},
+    neck="Erra Pendant",
+    waist="Sacro Cord",
+    left_ear="Regal Earring",
+    right_ear="Snotra Earring",
+    left_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    right_ring="Stikini Ring",
+    back="Altruistic Cape",
+}
